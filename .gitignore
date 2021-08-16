@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Mac File System File
+.DS_Store
+
+# package-lock
+package-lock.json
+
+# Postman JSON output file
+outputfile.json

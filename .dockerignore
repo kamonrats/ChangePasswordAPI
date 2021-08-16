@@ -1,0 +1,6 @@
+.git/
+node_modules/
+*.log
+ChangePasswordAPI.postman_collection.json
+passwordEnv.postman_environment.json
+outputfile.json
